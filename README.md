@@ -1,7 +1,7 @@
  1. Clone the repository
 
 ```bash
-$ git clone https://github.com/nusrat-borsha/Django-custom-registration.git](https://github.com/Ranjithr-007/User_role_based_login_system
+$ git clone https://github.com/Ranjithr-007/User_role_based_login_system
 ```
   2. Install the requirements
 
